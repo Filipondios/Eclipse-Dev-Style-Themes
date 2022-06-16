@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="99999" name="Filipondios" author="Filiponsdios">
+<colorTheme id="99999" name="Filipondios" author="Filipondios">
     <!--Se pueden añadir los parámetros color=#hexadecimal, underline=true/false, italic=true/false y bold=true/false-->
     <!--Comentarios-->
     <singleLineComment color=":#6a9955"/> <!--Verde-->
