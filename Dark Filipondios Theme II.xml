@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Filipondios Dark Theme II" author="Filipondios">
+    <!--Se pueden añadir los parámetros color=#hexadecimal, underline=true/false, italic=true/false y bold=true/false-->
+    <!--Comentarios-->
+    <singleLineComment color="#6a9955"/> <!--Verde-->
+    <multiLineComment color="#6a9955"/>  <!--Verde-->
+    
+    <!--Javadoc-->
+    <javadoc color="#7495f7" italic="false"/> <!--Azul-->
+    <javadocLink color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!--Cyan-->
+    <javadocTag color="#8be9fd" italic="false"/> <!--Cyan-->
+    <javadocKeyword color="#8be9fd" italic="false"/> <!--Cyan-->
+
+    <!--Busquedas y mas-->
+    <searchResultIndication color="#44475a"/> <!--Gris-->
+    <filteredSearchResultIndication color="#44475a"/> <!--Gris-->
+    <occurrenceIndication color="#44475a" underline="true"/> <!--Gris-->
+    <writeOccurrenceIndication color="#44475a" underline="true"/> <!--Gris-->
+    <findScope color="#44475a"/> <!--Gris-->
+    <deletionIndication color="#ffb86c"/> <!--Naranja-->
+    <sourceHoverBackground color="#8be9fd"/> <!--Cyan-->
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!--Cyan-->
+    
+    <!--Clases, metodos, Interfaces y mas-->
+    <class color="#ffffff" bold="false" underline="false" strikethrough="false" /> <!--Blanco-->
+    <interface color="#ffffff"/> <!--Blanco-->
+    <method color="#dcdc9d"/> <!--Amarillo Claro-->
+    <methodDeclaration color="#dcdc9d" /> <!--Amarillo Claro-->
+    <bracket color="#f1d700"/> <!--Amarillo-->
+    <number color="#ffffff"/> <!--Blanco-->
+    <string color="#ce9178"/> <!--Marron-->
+    <operator color="#f1d700"/> <!--Amarillo-->
+    <enum color="#79abde"/> <!--Azul-->
+    <keyword color="#ff79c6"/> <!--Rosa-->
+    <parameterVariable color="#ffffff"/> <!--Blanco-->
+    <staticFinalField color="#79abde"/> <!--Azul-->
+    <constant color="#79abde"/> <!--Azul-->
+    <localVariableDeclaration color="#79abde" /> <!--Azul-->
+    <localVariable color="#79abde"/> <!--Azul-->
+    <annotation color="#6a9955"/> <!-- Verde -->
+    <staticMethod color="#6a9955"/> <!-- Verde -->
+    <field color="#ffffff"/> <!--Blanco-->
+    <staticField color="#ffffff"/> <!--Blanco-->
+    <deprecatedMember color="#ffb86c" underline="false" strikethrough="true" /> <!--Naranja-->
+    <inheritedMethod color="#dcdc9d"/> <!--Amarillo Claro-->
+    <abstractMethod color="#dcdc9d"/> <!--Amarillo Claro-->
+    <typeArgument color="#ffffff"/> <!-- Cyan -->
+    <typeParameter color="#ffb86c"/> <!-- Naranja -->
+    <background color="#1e1e1e"/> <!--Negro-->
+    <currentLine color="#44475a"/> <!--Gris-->
+    <foreground color="#ffffff"/> <!--Blanco-->
+    <lineNumber color="#44475a"/> <!--Gris-->
+    <selectionBackground color="#666B87"/> <!--Gris Claro-->
+    <selectionForeground color="#ffffff"/> <!--Blanco-->
+</colorTheme>
