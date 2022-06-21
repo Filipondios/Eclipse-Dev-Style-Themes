@@ -2,6 +2,11 @@
 
 ## Themes Index
 The following themes are available in this repository:
-- Dark Filipondios Theme </br>
+<br></br>
+- <b><a href="https://github.com/Filipondios/Eclipse-Dev-Style-Themes/blob/main/Dark%20Filipondios%20Theme.xml">Filipondios Dark Theme</a></b>
+<br></br>
 ![imagen](https://user-images.githubusercontent.com/91225771/174331313-7926dc5e-9a64-46d2-82bf-dedc87503f9b.png)
-
+- <a href="https://github.com/Filipondios/Eclipse-Dev-Style-Themes/blob/main/Dark%20Filipondios%20Theme%20II.xml"><b>Filipondios Dark Theme II</b></a>
+<br></br>
+![imagen](https://user-images.githubusercontent.com/91225771/174824337-4a4fa2fb-8e55-4785-aa78-1c58388ba8a6.png)
+<br></br>
