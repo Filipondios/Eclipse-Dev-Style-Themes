@@ -1,0 +1,27 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.code {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 7px;
+    margin-bottom: 10px;
+    background: #0d1117; 
+    color: #ffffff;
+}
+
+#singleLineComment { color: #8b949e; } 
+#multiLineComment { color: #8b949e; }
+
+#javadoc { color: #c9d1d9; }
+#javadocLink { color: #a5d6ff; }
+#javadocTag { color: #79c0ff; }
+#javadocKeyword { color: #a5d6ff; }
+
+
+
+#keyword { color: #ff7b72; }
