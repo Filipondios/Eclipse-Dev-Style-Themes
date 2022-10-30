@@ -17,7 +17,7 @@
   <a href="#license">License 📜</a>
 </p>
 
-<img src=".resources/COPIA.gif" alt="demo"/>
+<img src=".resources/preview.png" alt="demo"/>
 
 <a name="how-to-use"></a>
 ## How To Use ⚙
