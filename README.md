@@ -88,7 +88,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 
 <a name="download"></a>
 ## Download 📦
-You can git clone this repo or just download the zip with all the files.
+You can git clone this repo or just download the <a href="https://raw.githubusercontent.com/Filipondios/Eclipse-Dev-Style-Themes/main/.resources/themes.zip">zip</a> with all the files.
 
 <a name="credits"></a>
 ## Credits 📚
