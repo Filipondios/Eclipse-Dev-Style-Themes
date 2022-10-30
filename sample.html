@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>XML Theme preview</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='css/main.css'>
+        <link rel="shortcut icon" href=".resources/page-logo.svg" />
+    </head>
+    
+    <body>
+        <h1>Customize your code!</h1>
+
+        <div class="code">
+            <!-- Keywords theming -->
+            <smth id="keyword">package</smth> <smth id="foreground">org.example.package;</smth><br><br>
+            
+            <!-- Javadoc Theming -->
+            <smth id="javadoc">/**A Pair object contains a "key" associated to a value. For example, we can represent a
+                * person who has a telephone number like: new Pair("Mike",123456789),
+                * where the String "Mike" is associated to the value 123456789. This class is based on the </smth>
+            <smth id="javadocLink">{@link Entry}</smth>
+            <smth id="javadoc"> java class.</smth><br>
+            <smth id="javadocTag">@author <smth id="javadoc">Filipondios</smth></smth><br>
+            <smth id="javadocTag">@param <smth id="javadocKeyword">&lt;K&gt; </smth></smth> <smth id="javadoc"> Key of the pair.</smth> <br>
+            <smth id="javadocTag">@param <smth id="javadocKeyword">&lt;V&gt;</smth></smth> <smth id="javadoc"> Value associated to the key.**/</smth><br><br>
+        
+            <!--  -->
+            <smth>public class Pair&lt;K extends Comparable&lt;V&gt;,V&gt; implements Comparable &lt;Pair&lt;K,V&gt;&gt; {</smth>
+            
+        </div>
+
+        <section class="main">
+            <section class="articles">
+                
+                <input id="input_1" type="text" onkeydown="init_comment();">
+                
+            </section>
+        </section>
+        <script src="javascript/main.js"></script>
+    </body>
+</html>
