@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Filipondios GitHub Dark Theme" author="Filipondios">
+    <!--Se pueden añadir los parámetros color=#hexadecimal, underline=true/false, italic=true/false y bold=true/false-->
+    <!--Comentarios-->
+    <singleLineComment color="#8b949e"/> <!--Gris-->
+    <multiLineComment color="#8b949e"/>  <!--Gris-->
+    
+    <!--Javadoc-->
+    <javadoc color="#c9d1d9" italic="false"/> <!--Gris-->
+    <javadocLink color="#a5d6ff" italic="false" underline="true" strikethrough="false" /> <!--Azul-->
+    <javadocTag color="#79c0ff" italic="false"/> <!--Azul-->
+    <javadocKeyword color="#a5d6ff" italic="false"/> <!--Azul-->
+
+    <!--Busquedas y mas-->
+    <searchResultIndication color="#44475a"/> <!--Gris-->
+    <filteredSearchResultIndication color="#44475a"/> <!--Gris-->
+    <occurrenceIndication color="#44475a" underline="true"/> <!--Gris-->
+    <writeOccurrenceIndication color="#44475a" underline="true"/> <!--Gris-->
+    <findScope color="#44475a"/> <!--Gris-->
+    <deletionIndication color="#ffb86c"/> <!--Naranja-->
+    <sourceHoverBackground color="#8be9fd"/> <!--Cyan-->
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!--Cyan-->
+    
+    <!--Clases, metodos, Interfaces y mas-->
+    <class color="#ffffff" bold="false" underline="false" strikethrough="false" /> <!--Gris-->
+    <enum color="#c9d1d9"/> <!--Gris-->
+    <interface color="#c9d1d9"/> <!--Gris-->
+    <method color="#d2a8ff"/> <!--Morado-->
+    <methodDeclaration color="#c9d1d9" /> <!--Gris-->
+    <staticMethod color="#d2a8ff"/> <!-- Morado -->
+    <inheritedMethod color="#d2a8ff"/> <!--Morado-->
+    <abstractMethod color="#d2a8ff"/> <!--Morado-->
+    <bracket color="#c9d1d9"/> <!--Gris-->
+    <number color="#79c0ff"/> <!--Azul-->
+    <string color="#a5d6ff"/> <!--Azul-->
+    <operator color="#c9d1d9"/> <!--Gris-->
+    <keyword color="#ff7b72" bold="true" underline="false" strikethrough="false" /> <!--Rojo-->
+    <background color="#0d1117"/> <!--Negro-->
+    <foreground color="#ffffff"/> <!--Blanco-->
+    <lineNumber color="#6e7674"/> <!--Gris-->
+    <currentLine color="#c9d1d9"/> <!--Gris-->
+    <selectionBackground color="#1e4273"/> <!--Azul-->
+    <selectionForeground color="#ffffff"/> <!--Blanco-->
+    <field color="#c9d1d9"/> <!--Gris-->
+    <deprecatedMember color="c9d1d9" underline="false" strikethrough="true" /> <!--Gris-->
+    <parameterVariable color="#c9d1d9"/> <!--Gris-->
+    
+    <staticField color="#79c0ff" bold="false" italic="true" /> <!--Gris-->
+    <staticFinalField color="#79c0ff" bold="true" italic="true" /> <!--Azul-->
+    
+    <constant color="#79c0ff"/> <!--Azul-->
+    <localVariableDeclaration color="#c9d1d9" /> <!--Gris-->
+    <localVariable color="#c9d1d9"/> <!--Gris-->
+    
+    <annotation color="#c9d1d9"/> <!--Gris-->
+    <typeArgument color="#ffffff"/> <!--Blanco-->
+    <typeParameter color="#ffffff"/> <!--Blanco-->
+</colorTheme>
