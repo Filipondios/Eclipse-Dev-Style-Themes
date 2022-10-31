@@ -20,6 +20,7 @@
 <img src=".resources/preview.png" alt="demo"/>
 
 <a name="how-to-use"></a>
+
 ## How To Use ⚙
 
 The themes are stored in the ``custom-themes`` and ``based-themes`` folders. Its pretty clear what its inside both...Once you have downloaded this repo, just follow the next steps if you are new importing themes into the dev-style eclipse plugin:
@@ -35,6 +36,7 @@ Restart Eclipse
 > Obviously you must have installed the Dev-Style plugin wich is available in the Eclipse Marketplace as dev-style. If its not showing, try Darkest Dark Theme.
 
 <a name="own-theming"></a>
+
 ## How to Customize your own Theme 🛠
 You need to know the following "parameters" or "variables" available in the .xml files:<br><br>
 
@@ -88,16 +90,45 @@ You need to know the following "parameters" or "variables" available in the .xml
 ``annotation`` : color of a Eclipse annotation<br>
 <br>
 
+## Themes
+
+<details><summary>BASED THEMES</summary>
+<p>
+
+### One Dark
+<!-- Here goes the pic -->
+
+### Github Dark Theme
+<!-- Here goes the pic -->
+
+</p>
+</details>
+
+<details><summary>CUSTOM THEMES</summary>
+<p>
+
+### Filipondios Dark Theme I
+<!-- Here goes the pic -->
+
+### Filipondios Dark Theme II
+<!-- Here goes the pic -->
+
+</p>
+</details>
+
 <a name="download"></a>
+
 ## Download 📦
 You can git clone this repo or just download the <a href="https://raw.githubusercontent.com/Filipondios/Eclipse-Dev-Style-Themes/main/.resources/themes.zip">zip</a> with all the files.
 
 <a name="credits"></a>
+
 ## Credits 📚
 Some of the themes I have in this repository are partly of fully based in existing themes. Those are
 - GitHub dark theme : From <a href="www.github.com">GitHub</a>
 
 <a name="license"></a>
+
 ## License 📜
 MIT - See the license <a href="LICENSE">file</a>.
 
