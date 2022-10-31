@@ -18,24 +18,70 @@
             
             <!-- Javadoc Theming -->
             <smth id="javadoc">/**A Pair object contains a "key" associated to a value. For example, we can represent a
-                * person who has a telephone number like: new Pair("Mike",123456789),
-                * where the String "Mike" is associated to the value 123456789. This class is based on the </smth>
+            person who has a telephone number like: new Pair("Mike",123456789),
+            where the String "Mike" is associated to the value 123456789. This class is based on the </smth>
             <smth id="javadocLink">{@link Entry}</smth>
             <smth id="javadoc"> java class.</smth><br>
-            <smth id="javadocTag">@author <smth id="javadoc">Filipondios</smth></smth><br>
-            <smth id="javadocTag">@param <smth id="javadocKeyword">&lt;K&gt; </smth></smth> <smth id="javadoc"> Key of the pair.</smth> <br>
-            <smth id="javadocTag">@param <smth id="javadocKeyword">&lt;V&gt;</smth></smth> <smth id="javadoc"> Value associated to the key.**/</smth><br><br>
-        
-            <!--  -->
-            <smth>public class Pair&lt;K extends Comparable&lt;V&gt;,V&gt; implements Comparable &lt;Pair&lt;K,V&gt;&gt; {</smth>
-            
-        </div>
+            <smth id="javadocTag">@author</smth> <smth id="javadoc">Filipondios</smth><br>
+            <smth id="javadocTag">@param</smth> <smth id="javadocKeyword">&lt;K&gt; </smth> <smth id="javadoc"> Key of the pair.</smth> <br>
+            <smth id="javadocTag">@param</smth> <smth id="javadocKeyword">&lt;V&gt;</smth> <smth id="javadoc"> Value associated to the key.**/</smth>
+            <br><br>
 
+            <!-- Class declaration: keywords, classes, brackets, etc -->
+            <smth id="keyword">public class</smth> <smth id="class">Pair</smth><smth id="bracket">&lt</smth>
+            <smth id="class">K</smth> <smth id="keyword">extends</smth> <smth id="interface">Comparable</smth>
+            <smth id="bracket">&lt</smth><smth id="class">K</smth><smth id="bracket">&gt</smth>,<smth id="class">V</smth><smth id="bracket">&gt</smth>
+            <smth id="keyword">implements</smth> <smth id="interface">Comparable</smth><smth id="bracket">&lt</smth><smth id="class">Pair</smth>
+            <smth id="bracket">&lt</smth><smth id="class">K</smth>,<smth id="class">V</smth><smth id="bracket">&gt</smth><smth id="bracket">&gt</smth>
+            <smth id="bracket">{</smth>
+            <br><br>
+            
+            <!-- Fields & Comments -->
+            &emsp;&emsp;&emsp;<smth id="keyword">private static final</smth> <smth id="class">Object</smth> <smth id="staticFinalField">STATIC_FINAL_FIELD</smth>;
+            <smth id="singleLineComment">//This is a single line comment</smth><br>
+            &emsp;&emsp;&emsp;<smth id="keyword">private static</smth> <smth id="class">Object</smth> <smth id="staticField">STATIC_FIELD</smth>;
+            <smth id="multiLineComment">/*This is a multi line comment*/</smth><br>
+            &emsp;&emsp;&emsp;<smth id="keyword">private</smth> <smth id="class">K</smth> <smth id="field">key</smth>;<br>
+            &emsp;&emsp;&emsp;<smth id="keyword">private</smth> <smth id="class">V</smth> <smth id="field">value</smth>;
+            <br><br>
+
+            <!-- Constructor -->
+            &emsp;&emsp;&emsp;<smth id="keyword">public</smth> <smth id="methodDeclaration">Pair</smth> <smth id="bracket">(</smth><smth id="class">K</smth>
+            <smth id="parameterVariable">key</smth>, <smth id="class">V</smth> <smth id="parameterVariable ">value</smth><smth id="bracket">) {</smth><br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<smth id="keyword">this</smth>.<smth id="field">key</smth> <smth id="operator">=</smth>
+            <smth id="parameterVariable">key</smth>;<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<smth id="keyword">this</smth>.<smth id="field">value</smth> <smth id="operator">=</smth>
+            <smth id="parameterVariable">value</smth>;<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<smth id="keyword">this</smth>.<smth id="staticFinalField">STATIC_FINAL_FIELD</smth> <smth id="operator">=</smth>
+            <smth id="keyword">null</smth>;<br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<smth id="keyword">this</smth>.<smth id="staticField">STATIC_FIELD</smth> <smth id="operator">=</smth>
+            <smth id="keyword">null</smth>;<br>
+            &emsp;&emsp;&emsp;<smth id="bracket">}</smth>
+            <br><br>
+            
+            <!-- Normal method calling a inherited method -->
+            &emsp;&emsp;&emsp;<smth id="keyword">public int</smth> <smth id="methodDeclaration">compareTo</smth><smth id="bracket">(</smth>
+            <smth id="class">Pair</smth><smth id="bracket">&lt</smth><smth id="class">K</smth>,<smth id="class">V</smth><smth id="bracket">&gt</smth>
+            <smth id="parameterVariable">o</smth><smth id="bracket">) {</smth><br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;<smth id="keyword">return this</smth>.<smth id="field">key</smth>.<smth id="inheritedMethod">compareTo</smth>
+            <smth id="bracket">(</smth><smth id="parameterVariable">o</smth>.<smth id="field">key</smth><smth id="bracket">)</smth>;<br>
+            &emsp;&emsp;&emsp;<smth id="bracket">}</smth>
+            <br>
+            <smth id="bracket">}</smth>
+        </div>
+        
         <section class="main">
             <section class="articles">
                 
-                <input id="input_1" type="text" onkeydown="init_comment();">
-                
+                Single Line Comment: <input id="input_1" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                Multi Line Comment: <input id="input_2" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                <br>
+
+                Javadoc: <input id="input_3" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                Javadoc Link: <input id="input_4" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                Javadoc Tag: <input id="input_5" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                Javadoc Keyword: <input id="input_6" type="text" onkeydown="init_comment();" maxlength="6"><br>
+                <br>
             </section>
         </section>
         <script src="javascript/main.js"></script>
