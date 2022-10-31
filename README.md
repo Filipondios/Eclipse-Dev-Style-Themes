@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.eclipse.org/"><img src=".resources/eclipse.svg" alt="Eclipse" width="120"></a>
+  <a href="https://www.eclipse.org/"><img src=".resources/logo.png" alt="Eclipse" width="300"></a>
   <br>
   Eclipse Dev-Style Themes & Theme Helper
   <br>
