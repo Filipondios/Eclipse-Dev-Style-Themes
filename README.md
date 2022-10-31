@@ -12,6 +12,7 @@
 <p align="center">
   <a href="#how-to-use">How To Use ⚙</a> •
   <a href="#own-theming">Do your own Theme 🛠</a> •
+  <a href="#helper">Theme Helper 🖥</a> •
   <a href="#download">Download 📦</a> •
   <a href="#credits">Credits 📚</a> •
   <a href="#license">License 📜</a>
@@ -90,6 +91,11 @@ You need to know the following "parameters" or "variables" available in the .xml
 
 > **Note**
 > After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+
+<a name="helper"></a>
+## Using the Theme Helper (EDSTH) 🖥
+You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Herper) by clicking in the sample.html file when you have downloaded this repo files
+or by accessing it in the web, with <a href="">this link</a>.
 
 <a name="download"></a>
 ## Download 📦
