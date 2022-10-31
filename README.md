@@ -88,6 +88,9 @@ You need to know the following "parameters" or "variables" available in the .xml
 ``annotation`` : color of a Eclipse annotation<br>
 <br>
 
+> **Note**
+> After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+
 <a name="download"></a>
 ## Download 📦
 You can git clone this repo or just download the <a href="https://raw.githubusercontent.com/Filipondios/Eclipse-Dev-Style-Themes/main/.resources/themes.zip">zip</a> with all the files.
