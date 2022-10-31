@@ -16,5 +16,5 @@ function init_for(){
 
 function init_back(){
     var color = document.querySelector("#input_30").value;
-    document.querySelector("div") = "#" + color;
+    document.querySelector("div").style.background = "#" + color;
 }
