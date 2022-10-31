@@ -99,7 +99,7 @@ or by accessing it in the web, with <a href="">this link</a>.
 
 <a name="download"></a>
 ## Download 📦
-You can git clone this repo or just download the <a href="https://raw.githubusercontent.com/Filipondios/Eclipse-Dev-Style-Themes/main/.resources/themes.zip">zip</a> with all the files.
+You can git clone this repo or just download the <a href="https://codeload.github.com/Filipondios/Eclipse-Dev-Style-Themes/zip/refs/heads/main">zip</a> with all the files.
 
 <a name="credits"></a>
 ## Credits 📚
