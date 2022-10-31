@@ -91,7 +91,9 @@ You need to know the following "parameters" or "variables" available in the .xml
 ``annotation`` : color of a Eclipse annotation<br>
 <br>
 
-<<<<<<< HEAD
+> **Note**
+> After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+
 ## Themes
 
 <details><summary>BASED THEMES</summary>
@@ -117,15 +119,12 @@ You need to know the following "parameters" or "variables" available in the .xml
 
 </p>
 </details>
-=======
-> **Note**
-> After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
 
 <a name="helper"></a>
+
 ## Using the Theme Helper (EDSTH) 🖥
 You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Herper) by clicking in the sample.html file when you have downloaded this repo files
 or by accessing it in the web, with <a href="">this link</a>.
->>>>>>> 33037305ff5d0ae013dce5f84bdc31ba596c4302
 
 <a name="download"></a>
 
