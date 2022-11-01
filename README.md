@@ -13,12 +13,13 @@
   <a href="#how-to-use">How To Use ⚙</a> •
   <a href="#own-theming">Do your own Theme 🛠</a> •
   <a href="#helper">Theme Helper 🖥</a> •
+  <a href="#themes">Themes 🖌</a> •
   <a href="#download">Download 📦</a> •
   <a href="#credits">Credits 📚</a> •
   <a href="#license">License 📜</a>
 </p>
 
-<img src=".resources/prev.png" alt="demo"/>
+<img src=".resources/look.png" alt="demo"/>
 
 <a name="how-to-use"></a>
 
@@ -94,16 +95,21 @@ You need to know the following "parameters" or "variables" available in the .xml
 > **Note**
 > After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
 
-## Themes
+<a name="themes"></a>
+
+## Themes 🖌
 
 <details><summary>BASED THEMES</summary>
 <p>
 
 ### One Dark
-<!-- Here goes the pic -->
+![imagen](https://user-images.githubusercontent.com/91225771/199129663-f1c34680-aa63-40c5-80ba-c3029d8a6dc6.png)
+
+## Nord
+![imagen](https://user-images.githubusercontent.com/91225771/199133416-25fea3c3-0845-4eb9-a96e-b11f5680c86a.png)
 
 ### Github Dark Theme
-<!-- Here goes the pic -->
+![imagen](https://user-images.githubusercontent.com/91225771/199129783-fb262dd5-4ddd-423d-a1e1-0af2afbafdcf.png)
 
 </p>
 </details>
@@ -112,10 +118,10 @@ You need to know the following "parameters" or "variables" available in the .xml
 <p>
 
 ### Filipondios Dark Theme I
-<!-- Here goes the pic -->
+![imagen](https://user-images.githubusercontent.com/91225771/199130396-e50ab730-1090-441a-b0c7-28e80c91acf7.png)
 
 ### Filipondios Dark Theme II
-<!-- Here goes the pic -->
+![imagen](https://user-images.githubusercontent.com/91225771/199130450-8637fddb-3c00-4468-94ef-f71088e3da99.png)
 
 </p>
 </details>
@@ -123,7 +129,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <a name="helper"></a>
 
 ## Using the Theme Helper (EDSTH) 🖥
-You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Herper) by clicking in the sample.html file when you have downloaded this repo files
+You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Helper) by clicking in the sample.html file when you have downloaded this repo files
 or by accessing it in the web, with <a href="">this link</a>.
 
 <a name="download"></a>
@@ -145,5 +151,5 @@ MIT - See the license <a href="LICENSE">file</a>.
 ---
 
 > GitHub [@Filipondios](https://github.com/Filipondios) &nbsp;&middot;&nbsp;
-> Twitter [@filipondios](https://twitter.com/Filipondios)
+> Discord [ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621](https://discord.com)
 
