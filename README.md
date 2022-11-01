@@ -19,7 +19,7 @@
   <a href="#license">License 📜</a>
 </p>
 
-<img src=".resources/prev.png" alt="demo"/>
+<img src=".resources/look.png" alt="demo"/>
 
 <a name="how-to-use"></a>
 
@@ -151,5 +151,5 @@ MIT - See the license <a href="LICENSE">file</a>.
 ---
 
 > GitHub [@Filipondios](https://github.com/Filipondios) &nbsp;&middot;&nbsp;
-> Twitter [@filipondios](https://twitter.com/Filipondios)
+> Discord [ꜰɪʟɪᴘᴏɴᴅɪᴏꜱ#9621](https://discord.com)
 
