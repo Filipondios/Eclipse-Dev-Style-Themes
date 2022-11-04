@@ -12,7 +12,6 @@
   <a href="#helper">Theme Helper 🖥</a> •
   <a href="#themes">Themes 🖌</a> •
   <a href="#download">Download 📦</a> •
-  <a href="#credits">Credits 📚</a> •
   <a href="#license">License 📜</a>
 </p>
 
@@ -134,12 +133,10 @@ or by accessing it in the web, with <a href="">this link</a>.
 ## Download 📦
 You can git clone this repo or just download the <a href="https://codeload.github.com/Filipondios/Eclipse-Dev-Style-Themes/zip/refs/heads/main">zip</a> with all the files.
 
-<a name="credits"></a>
-
 <a name="license"></a>
 
 ## License 📜
-MIT - See the license <a href="LICENSE">file</a>.
+GNU - See the license <a href="LICENSE">file</a>.
 
 ---
 
