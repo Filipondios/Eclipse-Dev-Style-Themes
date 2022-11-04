@@ -136,10 +136,6 @@ You can git clone this repo or just download the <a href="https://codeload.githu
 
 <a name="credits"></a>
 
-## Credits 📚
-Some of the themes I have in this repository are partly of fully based in existing themes. Those are
-- GitHub dark theme : From <a href="www.github.com">GitHub</a>
-
 <a name="license"></a>
 
 ## License 📜
