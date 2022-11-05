@@ -101,11 +101,14 @@ You need to know the following "parameters" or "variables" available in the .xml
 ### One Dark
 ![imagen](https://user-images.githubusercontent.com/91225771/199129663-f1c34680-aa63-40c5-80ba-c3029d8a6dc6.png)
 
-## Nord
+### Nord
 ![imagen](https://user-images.githubusercontent.com/91225771/199133416-25fea3c3-0845-4eb9-a96e-b11f5680c86a.png)
 
 ### Github Dark Theme
 ![imagen](https://user-images.githubusercontent.com/91225771/199129783-fb262dd5-4ddd-423d-a1e1-0af2afbafdcf.png)
+
+### IntelliJ Darcula Theme
+![imagen](https://user-images.githubusercontent.com/91225771/200127220-9cc7c4ac-06dd-4d6a-9e0e-7ab28451dd9e.png)
 
 </p>
 </details>
