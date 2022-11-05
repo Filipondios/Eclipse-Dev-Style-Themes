@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="IntelliJ Darcula Theme" author="Filipondios">
+
+    <singleLineComment color="#629755"/> 
+    <multiLineComment color="#629755"/>
+    
+    <javadoc color="#629755" italic="false"/>
+    <javadocLink color="#ffef28" italic="false" underline="true" strikethrough="false"/> 
+    <javadocTag color="#629755" italic="false"/>
+    <javadocKeyword color="#ffef28" italic="false"/> 
+
+    <keyword color="#e2914e" bold="true" underline="false" strikethrough="false"/> 
+
+    <searchResultIndication color="#44475a"/> 
+    <filteredSearchResultIndication color="#44475a"/> 
+    <occurrenceIndication color="#44475a" underline="true"/> 
+    <writeOccurrenceIndication color="#44475a" underline="true"/> 
+    <findScope color="#44475a"/> 
+    <deletionIndication color="#ffb86c"/>
+    <sourceHoverBackground color="#8be9fd"/>
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" />
+    
+    <class color="#a9b7c6" bold="false" underline="false" strikethrough="false"/> 
+    <enum color="#a9b7c6"/> 
+    <interface color="#a9b7c6"/> 
+   
+    <method color="#a9b7c6"/>
+    <methodDeclaration color="#ffc66d"/> 
+    <staticMethod color="#a9b7c6"/>
+    <inheritedMethod color="#a9b7c6"/> 
+    <abstractMethod color="#a9b7c6" italic="true"/> 
+    
+    <bracket color="#a9b7c6"/> 
+    <number color="#6897bb"/> 
+    <string color="#629755"/> 
+    <operator color="#a9b7c6"/> 
+
+    <field color="#9876aa"/> 
+    <staticField color="#9876aa" bold="false" italic="true"/> 
+    <staticFinalField color="#9876aa" bold="true" italic="true"/> 
+    
+    <parameterVariable color="#d19a66"/> 
+    <localVariableDeclaration color="#a9b7c6" /> 
+    <localVariable color="#a9b7c6"/> 
+    <constant color="#9876aa"/> 
+
+    <background color="#2b2b2b"/>
+    <foreground color="#a9b7c6"/>
+    <lineNumber color="#606366"/> 
+    
+    <currentLine color="#33373f"/> 
+    <selectionBackground color="#404859"/> 
+    <selectionForeground color="#7f8591"/>
+    
+    <deprecatedMember color="#ffef28" underline="false" strikethrough="true"/> 
+    
+    <annotation color="#ffef28"/> 
+    <typeArgument color="#a9b7c6"/>
+    <typeParameter color="#a9b7c6"/>
+</colorTheme>
