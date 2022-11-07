@@ -128,8 +128,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <a name="helper"></a>
 
 ## Using the Theme Helper (EDSTH) 🖥
-You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Helper) by clicking in the sample.html file when you have downloaded this repo files
-or by accessing it in the web, with <a href="">this link</a>.
+You can access to the Theme helper or EDSTH (Eclise Dev Style Theming Helper) by clicking in the sample.html file when you have downloaded this repo files.
 
 <a name="download"></a>
 
