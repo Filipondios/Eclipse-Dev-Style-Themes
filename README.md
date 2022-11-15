@@ -89,7 +89,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <br>
 
 > **Note**
-> After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+> After reading this, you can make your custom theme by using the <b><a href="https://filipondios.github.io/edste/">Theme Helper</a></b> and then copiying the hexadecimal color values to your ``.xml`` theme file. 
 
 <a name="themes"></a>
 
@@ -104,6 +104,9 @@ You need to know the following "parameters" or "variables" available in the .xml
 ### Nord
 ![imagen](https://user-images.githubusercontent.com/91225771/199133416-25fea3c3-0845-4eb9-a96e-b11f5680c86a.png)
 
+### Ayu Dark
+![imagen](https://user-images.githubusercontent.com/91225771/202039322-ff14233f-8177-4084-8216-5b4fc8884fae.png)
+  
 ### Github Dark Theme
 ![imagen](https://user-images.githubusercontent.com/91225771/199129783-fb262dd5-4ddd-423d-a1e1-0af2afbafdcf.png)
 
