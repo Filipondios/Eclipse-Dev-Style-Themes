@@ -105,8 +105,8 @@ You need to know the following "parameters" or "variables" available in the .xml
 ![imagen](https://user-images.githubusercontent.com/91225771/199133416-25fea3c3-0845-4eb9-a96e-b11f5680c86a.png)
 
 ### Ayu Dark
-![imagen](https://user-images.githubusercontent.com/91225771/202039097-aa4ed564-23ab-4fce-879f-a6e5280cb076.png)
-
+![imagen](https://user-images.githubusercontent.com/91225771/202039322-ff14233f-8177-4084-8216-5b4fc8884fae.png)
+  
 ### Github Dark Theme
 ![imagen](https://user-images.githubusercontent.com/91225771/199129783-fb262dd5-4ddd-423d-a1e1-0af2afbafdcf.png)
 
