@@ -22,12 +22,19 @@
 ## How To Use ⚙
 
 The themes are stored in the ``custom-themes`` and ``based-themes`` folders. Its pretty clear what its inside both...Once you have downloaded this repo, just follow the next steps if you are new importing themes into the dev-style eclipse plugin:
+
 ```
+
 Open Eclipse:
--> Window -> Prefferences -> Dev-Style -> Color Themes
+--> Window -> Prefferences -> Dev-Style -> Color Themes
+
 Then just import the themes that you want:
--> Import -> Select the .xml file of the desired theme
+--> Import -> Select the .xml file of the desired theme
+--> Workbench Theme : Dark Custom
+--> Set the (H), (S), (L) values to the specified in each theme README.md file 
+
 Restart Eclipse
+
 ```
 
 > **Note**
