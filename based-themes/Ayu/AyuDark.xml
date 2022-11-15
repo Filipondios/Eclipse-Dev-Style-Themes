@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Ayu asaqa" author="Filipondios">
+
+    <singleLineComment color="#bfbdb6"/> 
+    <multiLineComment color="#bfbdb6"/>
+    
+    <javadoc color="#bfbdb6" italic="false"/>
+    <javadocLink color="#ff8f40" italic="false" underline="true" strikethrough="false"/> 
+    <javadocTag color="#ff8f40" italic="false"/>
+    <javadocKeyword color="#da70d6" italic="false"/> 
+
+    <keyword color="#ff8f40" bold="true" underline="false" strikethrough="false"/> 
+
+    <searchResultIndication color="#44475a"/> 
+    <filteredSearchResultIndication color="#44475a"/> 
+    <occurrenceIndication color="#44475a" underline="true"/> 
+    <writeOccurrenceIndication color="#44475a" underline="true"/> 
+    <findScope color="#44475a"/> 
+    <deletionIndication color="#ffb86c"/>
+    <sourceHoverBackground color="#8be9fd"/>
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" />
+    
+    <class color="#59c2ff" bold="false" underline="false" strikethrough="false"/> 
+    <enum color="#59c2ff"/> 
+    <interface color="#59c2ff"/> 
+   
+    <method color="#ffb454"/>
+    <methodDeclaration color="#ffb454"/> 
+    <staticMethod color="#ffb454"/>
+    <inheritedMethod color="#ffb454"/> 
+    <abstractMethod color="#ffb454" italic="true"/> 
+    
+    <bracket color="#da70d6"/> 
+    <number color="#d2a6ff"/> 
+    <string color="#aad94c"/> 
+    <operator color="#f8d101"/> 
+
+    <field color="#bfbdb6"/> 
+    <staticField color="#bfbdb6" bold="false" italic="true"/> 
+    <staticFinalField color="#bfbdb6" bold="true" italic="true"/> 
+    
+    <parameterVariable color="#d2a6ff"/> 
+    <localVariableDeclaration color="#bfbdb6" /> 
+    <localVariable color="#bfbdb6"/> 
+    <constant color="#d2a6ff"/> 
+
+    <background color="#1f2430"/>
+    <foreground color="#59c2ff"/>
+    <lineNumber color="#495162"/> 
+    
+    <currentLine color="#33373f"/> 
+    <selectionBackground color="#404859"/> 
+    <selectionForeground color="#7f8591"/>
+    
+    <deprecatedMember color="#ffb454" underline="false" strikethrough="true"/> 
+    
+    <annotation color="#c9d1d9"/> 
+    <typeArgument color="#e06c75"/>
+    <typeParameter color="#e06c75"/>
+</colorTheme>
