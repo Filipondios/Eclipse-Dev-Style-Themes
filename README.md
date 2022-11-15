@@ -89,7 +89,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <br>
 
 > **Note**
-> After reading this, you can make your custom theme by using the main ``.html`` file of this repo and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+> After reading this, you can make your custom theme by using the <b><a href="https://filipondios.github.io/edste/">Theme Helper</a></b> and then copiying the hexadecimal color values to your ``.xml`` theme file. 
 
 <a name="themes"></a>
 
