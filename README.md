@@ -126,6 +126,9 @@ You need to know the following "parameters" or "variables" available in the .xml
 <details><summary>CUSTOM THEMES</summary>
 <p>
 
+### Soft Theme
+![imagen](https://user-images.githubusercontent.com/91225771/202307468-36784988-ae31-480f-9087-28c4b9cf0d6f.png)
+
 ### Filipondios Dark Theme I
 ![imagen](https://user-images.githubusercontent.com/91225771/199130396-e50ab730-1090-441a-b0c7-28e80c91acf7.png)
 
