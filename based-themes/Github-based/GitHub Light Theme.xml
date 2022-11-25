@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Filipondios GitHub Light Theme" author="Filipondios">
+
+    <singleLineComment color="#6e7781"/> 
+    <multiLineComment color="#6e7781"/>
+    
+    <javadoc color="#6e7781" italic="false"/>
+    <javadocLink color="#0550ae" italic="false" underline="true" strikethrough="false" />
+    <javadocTag color="#0550ae" italic="false"/>
+    <javadocKeyword color="#0550ae" italic="false"/>
+
+    <keyword color="#cf222e" bold="true" underline="false" strikethrough="false" />
+
+    <searchResultIndication color="#44475a"/>
+    <filteredSearchResultIndication color="#44475a"/>
+    <occurrenceIndication color="#44475a" underline="true"/>
+    <writeOccurrenceIndication color="#44475a" underline="true"/>
+    <findScope color="#44475a"/>
+    <deletionIndication color="#ffb86c"/>
+    <sourceHoverBackground color="#8be9fd"/>
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" />
+    
+    <class color="#000000" bold="false" underline="false" strikethrough="false" />
+    <enum color="#000000"/> 
+    <interface color="#000000"/> 
+   
+    <method color="#8250df"/>
+    <methodDeclaration color="#8250df" />
+    <staticMethod color="#8250df"/>
+    <inheritedMethod color="#8250df"/>
+    <abstractMethod color="#8250df"/>
+    
+    <bracket color="#000000"/>
+    <number color="#0550ae"/>
+    <string color="#0a3069"/>
+    <operator color="#000000"/>
+
+    <field color="#000000"/>
+    <staticField color="#000000" bold="false" italic="true" />
+    <staticFinalField color="#000000" bold="true" italic="true" />
+    
+    <parameterVariable color="#000000"/>
+    <localVariableDeclaration color="#000000" />
+    <localVariable color="#000000"/>
+    <constant color="#0550ae"/>
+
+    <background color="#ffffff"/>
+    <foreground color="#000000"/>
+    <lineNumber color="#6e7781"/>
+    <currentLine color="#c9d1d9"/>
+    <selectionBackground color="#1e4273"/>
+    <selectionForeground color="#ffffff"/>
+    
+    <deprecatedMember color="e05963" underline="false" strikethrough="true" />
+    
+    <annotation color="#000000"/> 
+    <typeArgument color="#000000"/>
+    <typeParameter color="#000000"/>
+</colorTheme>
