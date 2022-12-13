@@ -96,7 +96,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <br>
 
 > **Note**
-> After reading this, you can make your custom theme by using the <b><a href="https://filipondios.github.io/edste/">Theme Helper</a></b> and then copiying the hexadecimal color values to your ``.xml`` theme file. 
+> After reading this, you can make your custom theme by using the <b><a href="https://dpv927.github.io/edste/">Theme Helper (edste)</a></b> and then copiying the hexadecimal color values to your ``.xml`` theme file. 
 
 <a name="themes"></a>
 
@@ -141,7 +141,7 @@ You need to know the following "parameters" or "variables" available in the .xml
 <a name="helper"></a>
 
 ## Using the Theme Helper 🖥
-You can access to the Theme helper by visiting the editor website <b><a href="https://filipondios.github.io/edste/">edste</a></b>
+You can access to the Theme helper by visiting the editor website <b><a href="https://dpv927.github.io/edste/">edste</a></b>
 <ins>*(Eclipse Dev Style Theme Editor).*</ins> There you can change some values of the theme colors, to see a preview of how the theme should be. The colors change at the same time as you write the input in the boxes. If you see that a color is not applied, press enter.
 
 <a name="download"></a>
