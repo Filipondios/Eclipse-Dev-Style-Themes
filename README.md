@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#how-to-use">How To Use ⚙</a> •
   <a href="#own-theming">Do your own Theme 🛠</a> •
-  <a href="#helper">Theme Helper 🖥</a> •
   <a href="#themes">Themes 🖌</a> •
   <a href="#download">Download 📦</a> •
   <a href="#license">License 📜</a>
@@ -137,12 +136,6 @@ You need to know the following "parameters" or "variables" available in the .xml
 
 </p>
 </details>
-
-<a name="helper"></a>
-
-## Using the Theme Helper 🖥
-You can access to the Theme helper by visiting the editor website <b><a href="https://dpv927.github.io/edste/">edste</a></b>
-<ins>*(Eclipse Dev Style Theme Editor).*</ins> There you can change some values of the theme colors, to see a preview of how the theme should be. The colors change at the same time as you write the input in the boxes. If you see that a color is not applied, press enter.
 
 <a name="download"></a>
 
