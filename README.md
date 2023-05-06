@@ -50,8 +50,8 @@ You need to know the following "parameters" or "variables" available in the .xml
 
  ``javadoc`` : /\*\*this is a javadoc text\*\*/<br>
  ``javadocLink`` : link to a class or other type inside a javadoc text: {@link Class}, from { to }<br>
- ``javadocTag`` : tags inside a javadoc text : @param<br>
- ``javadocKeyword`` : no idea xd, but can share the color with the javadoc tag<br>
+ ``javadocKeyword`` : tags inside a javadoc text : @param<br>
+ ``javadocTag`` : HTML tags and other JavaDoc parameters different from links.<br>
 <br>
  
  ``keyword`` : **word of the next list**: package, import, public, private, protected, class, enum, interface, module, extends, implements, final, static, this, int, float, double, char.<br>
